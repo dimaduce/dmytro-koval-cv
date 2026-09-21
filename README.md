@@ -1,5 +1,7 @@
 # Dmytro Koval — Software Project Manager
 
+Live website: https://dmytro-koval-cv.vercel.app
+
 Personal CV website focused on project delivery and team coordination, with a real profile photo and a downloadable, selectable-text one-page PDF.
 
 Static HTML and CSS. No application framework, runtime dependencies, tracking or external font requests.
