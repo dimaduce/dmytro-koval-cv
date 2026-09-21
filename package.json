@@ -1,0 +1,13 @@
+{
+  "name": "dmytro-koval-cv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dmytro Koval — software project management, delivery leadership and AI practice",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
